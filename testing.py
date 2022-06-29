@@ -3,6 +3,5 @@ def foo():
     print('bye')
     
 
-
 x = foo()
 x = foo()
