@@ -1,7 +1,3 @@
-def foo():
-    print('hello')
-    print('bye')
-    
-
-x = foo()
-x = foo()
+def foo(arg,arg1):
+    if arg == arg1:
+        return 'equal'
